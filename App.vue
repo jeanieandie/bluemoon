@@ -1,6 +1,6 @@
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <template lang="pug">
-h6 monday event: https://generalassemb.ly/education/overcoming-fear-and-doubt/salt-lake-city/191852?utm_source=techoregon&utm_medium=affiliate-ntf-local&utm_campaign=2021-q3-salt-lake-city-overcoming-fear-and-doubt&utm_content=event
+p(style='background-color: #000; color: #bdf500') https://github.com/jeanieandie/jeanieandie http://localhost:8080/dataviewdemo
 div(style='background-color: #7f7f7f; color: powderblue; font-size: 15px;') | 𝅝 |  🌕 this is bluemoon/src/app.vue ︎ &nbsp;| &nbsp;☽︎ 🌕︎ ☾︎ 🌑︎ &nbsp;| 𝅘𝅥𝅯𝅘𝅥𝅯𝅘𝅥𝅯𝅘𝅥𝅯 𝅘𝅥𝅯𝅘𝅥𝅯𝅘𝅥𝅯𝅘𝅥𝅯 𝅘𝅥𝅯𝅘𝅥𝅯𝅘𝅥𝅯𝅘𝅥𝅯 𝅘𝅥𝅯𝅘𝅥𝅯𝅘𝅥𝅯𝅘𝅥𝅯 | 2021 blue moon play | Ae&a 2e+a 3e&a 4e+a | &nbsp; // nazarene.ninja \\ #a020f0
 div(id="nav")(style='background-color: #333; color: #c0c0c0;')
   table(style='width: 1820px; padding: 25px; box-sizing: border-box; background-color: #7f7f7f;')
@@ -14,50 +14,50 @@ div(id="nav")(style='background-color: #333; color: #c0c0c0;')
       td(style='background-color: #a020f0')
         router-link(to="/gg0" style='color: #bdf500; font-size: 33px;') ⑯
           br
-          i.material-icons(style='color: #bdf500; font-size: 33px;') add
+          i.material-icons(style='color: #bdf500; font-size: 33px;') art_track
       td(style='background-color: #000')
         router-link(to="/gg0" style='color: #fff; font-size: 33px;') ⑮
           br
-          i.material-icons(style='color: #fff; font-size: 33px;') add
+          i.material-icons(style='color: #fff; font-size: 33px;') ac_unit
       td(style='background-color: #eee')
         router-link(to="/datawires" style='color: #000; font-size: 33px;') ⑭
           br
-          i.material-icons(style='color: #000; font-size: 33px;') add
+          i.material-icons(style='color: #000; font-size: 33px;') accessible
       td(style='background-color: #ddd')
         router-link(to="/gg4" style='color: pink; font-size: 33px;') ⑬
           br
-          i.material-icons(style='color: pink; font-size: 33px;') add
+          i.material-icons(style='color: pink; font-size: 33px;') account_balance
       td(style='background-color: #ccc')
         router-link(to="/gg3" style='color: brown; font-size: 33px;') ⑫
           br
-          i.material-icons(style='color: brown; font-size: 33px;') add
+          i.material-icons(style='color: brown; font-size: 33px;') adjust
       td(style='background-color: #bbb')
         router-link(to="/gg2" style='color: cyan; font-size: 33px;') ⑪
           br
-          i.material-icons(style='color: cyan; font-size: 33px;') add
+          i.material-icons(style='color: cyan; font-size: 33px;') airport_shuttle
 
       td(style='background-color: #aaa')
         router-link(to="/gg1" style='color: hotpink; font-size: 33px;') ⑩
           br
-          i.material-icons(style='color: hotpink; font-size: 33px;') add
+          i.material-icons(style='color: hotpink; font-size: 33px;') archive
 
       td(style='background-color: #999; color: hotpink; font-size: 33px;')
         router-link(to="/gg0" style='color: dimgrey; font-size: 33px;') ⑨
           br
-          i.material-icons(style='color: dimgrey; font-size: 33px;') add
+          i.material-icons(style='color: dimgrey; font-size: 33px;') apps
       td(style='background-color: #888')
         router-link(to="/gg0" style='color: black; font-size: 33px;') ⑧
           br
-          i.material-icons(style='color: black; font-size: 33px;') add
+          i.material-icons(style='color: black; font-size: 33px;') album
       td(style='background-color: #777')
         router-link(to="/gg0" style='color: white; font-size: 33px;') ⑦
           br
-          i.material-icons(style='color: white; font-size: 33px;') add
+          i.material-icons(style='color: white; font-size: 33px;') all_inclusive
 
       td(style='background-color: #666;')
         router-link(to="/gg0" style='color: darkseagreen; font-size: 33px;') ⑥
           br
-          i.material-icons(style='color: darkseagreen; font-size: 33px;') add
+          i.material-icons(style='color: darkseagreen; font-size: 33px;') assistant_photo
 
       td(style='background-color: #555')
         router-link(to="/datawires" style='color: powderblue; font-size: 33px;') ⑤
@@ -413,6 +413,8 @@ table(style='width: 1820px; padding: 25px; box-sizing: border-box; background-co
       router-link(to="/gg0" style='color: #fff; font-size: 33px;') ⑮
         br
         i.material-icons(style='color: #fff; font-size: 33px;') add
+    td
+      p(style='background-color: #000; color: #bdf500') https://github.com/jeanieandie/jeanieandie
   tr
     td(style='background-color: #eee')
       router-link(to="/datawires" style='color: #000; font-size: 33px;') ⑭
@@ -590,8 +592,9 @@ table(style='width: 1820px; padding: 25px; box-sizing: border-box; background-co
     td(style='background-color: #888; color: hotpink; font-size: 13px;')
       router-link(to="/" style='background-color: #888; color: #777; font-size: 13px;') 人 <br>
         i.material-icons(style='color: #hotpink;') swap_horiz
-
-
+h1 http://themetawiki.clu/w/index.php/Talk:DataWires#git.40lab.sectorfour%3Ameleneth.2Fdatawires.git
+h1 http://lab.sectorfour/meleneth/datawires
+h1 http://clu/
 </template>
 <style lang="scss">
 
